@@ -8,9 +8,9 @@ sidebar:
   - title: "Role"
     image: /assets/img/Matthew.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Developer"
+  # - title: "Responsibilities"
+  #   text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/img/monkey-title.jpg
     image_path: /assets/img/monkey-title.jpg
@@ -31,3 +31,6 @@ This is a round-based game in which the player attempts to defeat all of the CPU
 {% include gallery caption="This is a sample gallery." %}
 
 I made this game as a final project for a CSCI151 Data Strucutes course that I took my freshman year of college. Although the use of a game engine could result in a higher quality game, this game (I still haven't decided on its title) effectively demonstrates a wide variety of data structures combining to form a substantial piece of software.
+
+# Links
+- Github Repository: ["https://github.com/matthew-kalahiki/monkey-game"](https://github.com/matthew-kalahiki/monkey-game)
