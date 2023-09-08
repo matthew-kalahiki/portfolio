@@ -1,6 +1,6 @@
 ---
 title: "Monkey Game"
-excerpt: "This is a game made in Java and JavaFX without the use of a game engine about monkeys"
+excerpt: "Game made in Java and JavaFX without the use of a game engine about monkeys"
 header:
   image:
   teaser: /assets/img/monkey-gameplay1.jpg
