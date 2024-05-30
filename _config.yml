@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Matthew Kalahiki"
   avatar           : "/assets/img/Matthew.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a student at Hendrix College double majoring in Computer Science and Economics and Business."
+  bio              : "I am a software developer and data analyst/enthusiast. I graduated with a Bachelors of Arts in Computer Science and Economics & Business"
   location         : "Conway, AR"
   # email            : "matthew.kalahiki@gmail.com"
   links:
